@@ -23,10 +23,10 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,postman,spring" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,postman,spring,React.js" />
 </p>
 
-**Languages:** Java, JavaScript, SQL, HTML, CSS  
+**Languages:** Java, JavaScript, SQL, HTML, CSS ,React.js 
 **Frameworks:** Spring Boot, Next.js  
 **Tools:** Git, GitHub, VS Code, Postman, MySQL  
 **Concepts:** DSA, OOPS, System Design, REST APIs
